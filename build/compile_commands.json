@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/ender/Workspace/FlashTensor/build",
+  "command": "/usr/bin/clang++ -DFLASHTENSOR_VERSION_MAJOR=0 -I/Users/ender/Workspace/FlashTensor/include -g -std=c++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk -o CMakeFiles/FlashTensor.dir/src/tensor.cpp.o -c /Users/ender/Workspace/FlashTensor/src/tensor.cpp",
+  "file": "/Users/ender/Workspace/FlashTensor/src/tensor.cpp",
+  "output": "CMakeFiles/FlashTensor.dir/src/tensor.cpp.o"
+}
+]

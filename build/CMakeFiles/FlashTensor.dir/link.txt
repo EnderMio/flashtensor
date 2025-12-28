@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFlashTensor.a CMakeFiles/FlashTensor.dir/src/tensor.cpp.o
+/usr/bin/ranlib libFlashTensor.a
